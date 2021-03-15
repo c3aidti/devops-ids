@@ -1,0 +1,6 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "DTI Devops General Repository",
+  "dependencies": { "server" : "7.13.1.20" }
+}
