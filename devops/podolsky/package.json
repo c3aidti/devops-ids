@@ -1,0 +1,7 @@
+{
+  "name" : "podolsky",
+  "description" : "IDS testing",
+  "author" : "podolsky@berkeley.edu",
+  "icon" : "https://tvseriesfinale.com/assets/muppetshow32a.jpg",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
