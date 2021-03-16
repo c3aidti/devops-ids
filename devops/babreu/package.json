@@ -1,0 +1,6 @@
+{
+  "name" : "babreu",
+  "description" : "IDS create app test",
+  "author" : "babreu@illinois.edu",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
