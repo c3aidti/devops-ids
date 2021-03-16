@@ -1,0 +1,6 @@
+{
+  "name" : "krafczyk",
+  "description" : "Krafczyk's main IDS tenant",
+  "author" : "mkrafcz2@illinois.edu",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
