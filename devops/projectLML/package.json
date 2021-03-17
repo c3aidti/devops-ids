@@ -1,0 +1,6 @@
+{
+  "name" : "projectLML",
+  "description" : "LML: Learning Machine Learning :D (in C3.ai!) ",
+  "author" : "babreu@illinois.edu",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
