@@ -1,0 +1,6 @@
+{
+  "name" : "yifang",
+  "description" : "the developer Admin space for Yifang",
+  "author" : "zhang303@illinois.edu",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
