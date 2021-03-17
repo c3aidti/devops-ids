@@ -1,0 +1,6 @@
+{
+  "name" : "gmerritt",
+  "description" : "Greg first application",
+  "author" : "gmerritt@berkeley.edu",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
