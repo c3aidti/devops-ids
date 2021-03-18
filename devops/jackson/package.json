@@ -1,0 +1,6 @@
+{
+  "name" : "jackson",
+  "description" : "The Falcon and the Winter Soldier",
+  "author" : "wjackson@illinois.edu",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
