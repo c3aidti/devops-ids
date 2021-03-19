@@ -1,0 +1,43 @@
+type CSV mixes Source {
+  
+  FECHA_ACTUALIZACION:   string
+  ID_REGISTR:            string
+  ORIGEN:                string
+  SECTOR:                string
+  ENTIDAD_UM:            string
+  SEXO:                  string
+  ENTIDAD_NAC:           string
+  ENTIDAD_RES:           string
+  MUNICIPIO_RES:         string
+  TIPO_PACIENTE:         string
+  FECHA_INGRESO:         string
+  FECHA_SINTOMAS:        string
+  FECHA_DEF:             string
+  INTUBADO:              string
+  NEUMONIA:              string
+  EDAD:                  string
+  NACIONALIDAD:          string
+  EMBARAZO:              string
+  HABLA_LENGUA_INDIG:    string
+  INDIGENA:              string
+  DIABETES:              string
+  EPOC:                  string
+  ASMA:                  string
+  INMUSUPR:              string
+  HIPERTENSION:          string
+  OTRA_COM:              string
+  CARDIOVASCULAR:        string
+  OBESIDAD:              string
+  RENAL_CRONICA:         string
+  TABAQUISMO:            string
+  OTRO_CASO:             string
+  TOMA_MUESTRA_LAB:      string
+  RESULTADO_LAB:         string
+  TOMA_MUESTRA_ANTIGENO: string
+  RESULTADO_ANTIGENO:    string
+  CLASIFICACION_FINAL:   string
+  MIGRANTE:              string
+  PAIS_NACIONALIDAD:     string
+  PAIS_ORIGEN:           string
+  UCI:                   string
+}
