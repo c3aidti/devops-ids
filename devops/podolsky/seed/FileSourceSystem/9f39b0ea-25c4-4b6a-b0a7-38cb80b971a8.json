@@ -1,1 +1,1 @@
-{"type":"FileSourceSystem","name":"unamTest100","meta":{"tenantTagId":91,"tenant":"podolsky","tag":"featurepodolsky","created":"2021-03-22T18:47:52Z","createdBy":"podolsky@berkeley.edu","updated":"2021-03-22T18:47:52Z","updatedBy":"podolsky@berkeley.edu","timestamp":"2021-03-22T18:47:52Z","fetchInclude":"[this,{sourceCollections:[id]}]","fetchType":"FileSourceSystem"},"version":1,"id":"9f39b0ea-25c4-4b6a-b0a7-38cb80b971a8","typeIdent":"FILE"}
+{"type":"FileSourceSystem","name":"unamTest100","id":"9f39b0ea-25c4-4b6a-b0a7-38cb80b971a8"}
