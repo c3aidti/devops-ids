@@ -1,4 +1,4 @@
-type SmartBulb schema name 'SMRT_BLB' {
+entity type SmartBulb schema name 'SMRT_BLB' {
   
   bulbType:  string
   wattage:   double
