@@ -1,1 +1,6 @@
-type SmartBulb schema name 'SMRT_BLB'
+type SmartBulb schema name 'SMRT_BLB' {
+  
+  bulbType:  string
+  wattage:   double
+  startDate: datetime
+}
