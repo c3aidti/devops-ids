@@ -1,0 +1,131 @@
+type TransformUnamTestTable1ToCanonicalUnamTestTable1 mixes CanonicalUnamTestTable1 transforms UnamTestTable1 {
+  
+  @db(length=64)
+  FECHA_ACTUALIZACION: ~ expression '"FECHA_ACTUALIZACION"'
+
+  @db(length=64)
+  ID_REGISTR: ~ expression '"ID_REGISTR"'
+
+  @db(length=64)
+  ORIGEN: ~ expression '"ORIGEN"'
+
+  @db(length=64)
+  SECTOR: ~ expression '"SECTOR"'
+
+  @db(length=64)
+  ENTIDAD_UM: ~ expression '"ENTIDAD_UM"'
+
+  @db(length=64)
+  SEXO: ~ expression '"SEXO"'
+
+  @db(length=64)
+  ENTIDAD_NAC: ~ expression '"ENTIDAD_NAC"'
+
+  @db(length=64)
+  ENTIDAD_RES: ~ expression '"ENTIDAD_RES"'
+
+  @db(length=64)
+  MUNICIPIO_RES: ~ expression '"MUNICIPIO_RES"'
+
+  @db(length=64)
+  TIPO_PACIENTE: ~ expression '"TIPO_PACIENTE"'
+
+  @db(length=64)
+  FECHA_INGRESO: ~ expression '"FECHA_INGRESO"'
+
+  @db(length=64)
+  FECHA_SINTOMAS: ~ expression '"FECHA_SINTOMAS"'
+
+  @db(length=64)
+  FECHA_DEF: ~ expression '"FECHA_DEF"'
+
+  @db(length=64)
+  INTUBADO: ~ expression '"INTUBADO"'
+
+  @db(length=64)
+  NEUMONIA: ~ expression '"NEUMONIA"'
+
+  @db(length=64)
+  EDAD: ~ expression '"EDAD"'
+
+  @db(length=64)
+  NACIONALIDAD: ~ expression '"NACIONALIDAD"'
+
+  @db(length=64)
+  EMBARAZO: ~ expression '"EMBARAZO"'
+
+  @db(length=64)
+  HABLA_LENGUA_INDIG: ~ expression '"HABLA_LENGUA_INDIG"'
+
+  @db(length=64)
+  INDIGENA: ~ expression '"INDIGENA"'
+
+  @db(length=64)
+  DIABETES: ~ expression '"DIABETES"'
+
+  @db(length=64)
+  EPOC: ~ expression '"EPOC"'
+
+  @db(length=64)
+  ASMA: ~ expression '"ASMA"'
+
+  @db(length=64)
+  INMUSUPR: ~ expression '"INMUSUPR"'
+
+  @db(length=64)
+  HIPERTENSION: ~ expression '"HIPERTENSION"'
+
+  @db(length=64)
+  OTRA_COM: ~ expression '"OTRA_COM"'
+
+  @db(length=64)
+  CARDIOVASCULAR: ~ expression '"CARDIOVASCULAR"'
+
+  @db(length=64)
+  OBESIDAD: ~ expression '"OBESIDAD"'
+
+  @db(length=64)
+  RENAL_CRONICA: ~ expression '"RENAL_CRONICA"'
+
+  @db(length=64)
+  TABAQUISMO: ~ expression '"TABAQUISMO"'
+
+  @db(length=64)
+  OTRO_CASO: ~ expression '"OTRO_CASO"'
+
+  @db(length=64)
+  TOMA_MUESTRA_LAB: ~ expression '"TOMA_MUESTRA_LAB"'
+
+  @db(length=64)
+  RESULTADO_LAB: ~ expression '"RESULTADO_LAB"'
+
+  @db(length=64)
+  TOMA_MUESTRA_ANTIGENO: ~ expression '"TOMA_MUESTRA_ANTIGENO"'
+
+  @db(length=64)
+  RESULTADO_ANTIGENO: ~ expression '"RESULTADO_ANTIGENO"'
+
+  @db(length=64)
+  CLASIFICACION_FINAL: ~ expression '"CLASIFICACION_FINAL"'
+
+  @db(length=64)
+  MIGRANTE: ~ expression '"MIGRANTE"'
+
+  @db(length=64)
+  PAIS_NACIONALIDAD: ~ expression '"PAIS_NACIONALIDAD"'
+
+  @db(length=64)
+  PAIS_ORIGEN: ~ expression '"PAIS_ORIGEN"'
+
+  @db(length=64)
+  UCI: ~ expression '"UCI"'
+
+  @db(length=64)
+  sourcesId: ~ expression '"sourcesId"'
+
+  @db(length=64)
+  sourceFileEncodedPath: ~ expression '"sourceFileEncodedPath"'
+
+  @db(length=64)
+  sourceFileUrl: ~ expression '"sourceFileUrl"'
+}
