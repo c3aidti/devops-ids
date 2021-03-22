@@ -1,0 +1,6 @@
+type FixtureCSV mixes Source {
+  
+  fixture:   string
+  apartment: string
+  building:  string
+}
