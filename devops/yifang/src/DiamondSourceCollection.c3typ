@@ -1,0 +1,14 @@
+type DiamondSourceCollection mixes Source {
+  
+  ID:      string
+  carat:   string
+  cut:     string
+  color:   string
+  clarity: string
+  depth:   string
+  table:   string
+  price:   string
+  x:       string
+  y:       string
+  z:       string
+}
