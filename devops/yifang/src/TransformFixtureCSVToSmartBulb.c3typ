@@ -1,5 +1,20 @@
+@canonicalTransform(condition="Manufacturer == 'GE'")
 type TransformFixtureCSVToSmartBulb mixes SmartBulb transforms FixtureCSV {
   
+  @db(length=64)
   bulbType: ~ expression 'BulbType'
-  id:       ~ expression 'SN'
+
+  /**
+   * Unique id that can either be manually specified or automatically generated during object creation.  Can't be
+   * changed once instance is persisted.
+   */
+  id: ~ expression 'SN'
+
+  @db(length=64)
+  startDate: ~ expression 'StartDate'
+
+  @db(length=64)
+  wattage: ~ expression 'number(Wattage) / 2'
+
+  name: ~ expression 'Manufacturer'
 }
