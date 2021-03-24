@@ -1,0 +1,2 @@
+// A public Kaggle dataset about Diamonds: https://www.kaggle.com/shivam2503/diamonds
+entity type diamond schema name 'DIAMOND'
