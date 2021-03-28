@@ -15,6 +15,10 @@ type TransformDiamondSourceCollectionTodiamond mixes diamond transforms DiamondS
   @db(length=64)
   depth: ~ expression 'depth'
 
+  /**
+   * Unique id that can either be manually specified or automatically generated during object creation.  Can't be
+   * changed once instance is persisted.
+   */
   @db(length=64)
   id: ~ expression 'ID'
 
