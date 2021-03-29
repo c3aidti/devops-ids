@@ -1,0 +1,6 @@
+{
+  "name" : "dadams-smartbulb",
+  "description" : "Training application for testing",
+  "author" : "dadams@illinois.edu",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
