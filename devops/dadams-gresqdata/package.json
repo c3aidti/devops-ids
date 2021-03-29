@@ -1,0 +1,6 @@
+{
+  "name" : "dadams-gresqdata",
+  "description" : "Test data integration for medium complexity data model using Gr-ResQ csv and schema",
+  "author" : "dadams@illinois.edu",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
