@@ -1,1 +1,1 @@
-{"type":"FileSourceSystem","name":"DiamondDemo","meta":{"tenantTagId":95,"tenant":"yifang","tag":"featureyifang","created":"2021-03-30T16:27:47Z","createdBy":"zhang303@illinois.edu","updated":"2021-03-30T16:27:47Z","updatedBy":"zhang303@illinois.edu","timestamp":"2021-03-30T16:27:47Z","fetchInclude":"[this,{sourceCollections:[id]}]","fetchType":"FileSourceSystem"},"version":1,"id":"665fd043-ee4d-4a61-ba23-0bbf04ddbb7e","typeIdent":"FILE"}
+{"type":"FileSourceSystem","name":"DiamondDemo","id":"665fd043-ee4d-4a61-ba23-0bbf04ddbb7e"}
