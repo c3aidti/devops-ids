@@ -1,2 +1,2 @@
 // Diamond public dataset: https://www.kaggle.com/shivam2503/diamonds
-type diamond schema name 'DIAMOND'
+entity type diamond schema name 'DIAMOND'
