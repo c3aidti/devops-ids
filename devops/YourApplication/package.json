@@ -1,0 +1,6 @@
+{
+  "name" : "YourApplication",
+  "description" : "This is a void app with a generic name for demonstration purposes",
+  "author" : "babreu@illinois.edu",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
