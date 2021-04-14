@@ -1,0 +1,6 @@
+{
+  "name" : "babreu2",
+  "description" : "second babreu app",
+  "author" : "babreu@illinois.edu",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
