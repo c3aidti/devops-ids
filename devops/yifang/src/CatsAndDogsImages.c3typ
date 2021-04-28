@@ -1,2 +1,2 @@
 // Image dataset importing experiment on 100 cats and 100 dogs training images
-entity type CatsAndDogsImages schema name 'CADI'
+entity type CatsAndDogsImages mixes VisualMedia schema name 'CADI'
