@@ -1,1 +1,11 @@
-type TransformCatsimagesToCatsAndDogsImages mixes CatsAndDogsImages transforms Catsimages
+type TransformCatsimagesToCatsAndDogsImages mixes CatsAndDogsImages transforms Catsimages {
+  
+  @db(length=64)
+  id: ~ expression 'id'
+
+  @db(length=64)
+  name: ~ expression 'name'
+
+  @db(length=64)
+  url: ~ expression 'url'
+}
