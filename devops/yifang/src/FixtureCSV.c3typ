@@ -1,0 +1,10 @@
+type FixtureCSV mixes Source {
+  
+  Manufacturer: string
+  BulbType:     string
+  Wattage:      string
+  SN:           string
+  StartDate:    string
+  Latitude:     string
+  Longitude:    string
+}

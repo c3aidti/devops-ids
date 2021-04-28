@@ -1,0 +1,32 @@
+type TransformDiamondCollectionTodiamond mixes diamond transforms DiamondCollection {
+  
+  diamond_ID: ~ expression 'ID'
+  price:      ~ expression 'price'
+
+  @db(length=64)
+  clarity: ~ expression 'clarity'
+
+  @db(length=64)
+  color: ~ expression 'color'
+
+  @db(length=64)
+  cut: ~ expression 'cut'
+
+  @db(length=64)
+  depth: ~ expression 'depth'
+
+  @db(length=64)
+  id: ~ expression 'ID'
+
+  @db(length=64)
+  table: ~ expression 'table'
+
+  @db(length=64)
+  x: ~ expression 'x'
+
+  @db(length=64)
+  y: ~ expression 'y'
+
+  @db(length=64)
+  z: ~ expression 'z'
+}

@@ -1,0 +1,6 @@
+type Catsimages mixes Source {
+  
+  id:   string
+  name: string
+  url:  string
+}

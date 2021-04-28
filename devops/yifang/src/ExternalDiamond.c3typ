@@ -1,0 +1,21 @@
+entity type ExternalDiamond mixes External, NoSystemCols schema name 'diamond' {
+  
+  diamondid: int schema name 'diamondid'
+  caret:     float schema name 'caret'
+
+  @db(length=16)
+  cut: string schema name 'cut'
+
+  @db(length=16)
+  color: string schema name 'color'
+
+  @db(length=16)
+  clarity: string schema name 'clarity'
+
+  d_depth: float schema name 'd_depth'
+  d_table: float schema name 'd_table'
+  d_price: float schema name 'd_price'
+  d_x:     float schema name 'd_x'
+  d_y:     float schema name 'd_y'
+  d_z:     float schema name 'd_z'
+}
