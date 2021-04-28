@@ -1,6 +1,1 @@
-{
-  "name": "devops",
-  "version": "1.0.0",
-  "description": "DTI Devops General Repository",
-  "dependencies": { "server" : "7.13.1.20" }
-}
+{"name":"devops","version":"2.0.0","description":"DTI Devops General Repository","dependencies":{"server":"7.13.1.20"}}
