@@ -1,1 +1,1 @@
-{"type":"FileSourceSystem","name":"cats_image_metadata","meta":{"tenantTagId":95,"tenant":"yifang","tag":"featureyifang","created":"2021-04-28T20:48:50Z","createdBy":"zhang303@illinois.edu","updated":"2021-04-28T20:48:50Z","updatedBy":"zhang303@illinois.edu","timestamp":"2021-04-28T20:48:50Z","fetchInclude":"[this,{sourceCollections:[id]}]","fetchType":"FileSourceSystem"},"version":1,"id":"3bc494b7-1b90-40f0-9f2d-04ed25b667be","typeIdent":"FILE"}
+{"type":"FileSourceSystem","name":"cats_image_metadata","id":"3bc494b7-1b90-40f0-9f2d-04ed25b667be"}
